@@ -1,4 +1,4 @@
-# PureC-IOS
+# PureC-iOS
 iOS application -- compatible with retina & iOS 10
 
 #Inspiration
