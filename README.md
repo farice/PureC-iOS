@@ -1,5 +1,5 @@
 # PureC-IOS
-iOS application compatible retina and iOS 10
+iOS application -- compatible with retina & iOS 10
 
 #Inspiration
-Inspired by [Richard Ross' work](https://github.com/richardjrossiii/CBasediOSApp)
+Inspired by [Richard Ross' work](https://github.com/richardjrossiii/CBasediOSApp).
